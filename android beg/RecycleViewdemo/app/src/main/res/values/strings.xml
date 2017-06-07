@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RecycleViewdemo</string>
+    <string-array name="pet_name">
+        <item>cat</item>
+        <item>dog</item>
+        <item>rat</item>
+        <item>Rabitt</item>
+        <item>pegion</item>
+        <item>snake</item>
+        <item>Elephant</item>
+        <item>cow</item>
+
+    </string-array>
+    <string-array name="pet_des">
+        <item>good</item>
+        <item>bad</item>
+        <item>vgood</item>
+        <item>vja</item>
+        <item>sd</item>
+        <item>sds</item>
+        <item>dt</item>
+        <item>cw</item>
+
+    </string-array>
+
+</resources>
